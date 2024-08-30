@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Academy.Core",
+    "\\Academy.Core\\Models",
+    "\\Academy.Core\\obj",
+    "\\Project.DataLayer",
+    "\\Project.DataLayer\\bin",
+    "\\Project.DataLayer\\Configurations",
+    "\\Project.DataLayer\\Models",
+    "\\Project.DataLayer\\Repositories",
+    "\\ProjectBackEnd"
+  ],
+  "SelectedNode": "\\Project.DataLayer\\AcademyDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
